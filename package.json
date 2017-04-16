@@ -45,7 +45,7 @@
     "karma-webpack": "1.8.1",
     "precommit-hook": "3.0.0",
     "string-replace-loader": "1.2.0",
-    "webpack": "1.14.0"
+    "webpack": "2.4.1"
   },
   "scripts": {
     "lint": "jshint . && eslint . && flow",
